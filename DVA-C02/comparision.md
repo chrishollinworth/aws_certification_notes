@@ -62,7 +62,7 @@ These task statements are new:
 
 - Amazon DynamoDB keys and indexing
 - Amazon Simple Storage Service (Amazon S3) tiers and lifecycle management
-- Caching strategies (for example, write-through, read-through, lazy loading, and time to live \[TTL\])
+- Caching strategies (for example, write-through, read-through, lazy loading, and time to live [TTL])
 - Cloud storage options (for example, file, object, and databases)
 - Create, read, update, and delete (CRUD) operations
 - Database consistency models (for example, strongly consistent and eventually consistent)
@@ -96,7 +96,7 @@ These task statements are new:
 
 #### **Knowledge of:**
 
-- Data classification (for example, personally identifiable information \[PII\] and protected health information \[PHI\])
+- Data classification (for example, personally identifiable information [PII] and protected health information [PHI])
 - Environment variables
 - Secrets management (for example, AWS Secrets Manager and Parameter Store, a capability of AWS Systems Manager)
 - Secure credential handling
@@ -139,7 +139,7 @@ These task statements are new:
 
 **Skills in:**
 
-- Deploying application stack updates to existing environments (for example, deploying an AWS Serverless Application Model \[AWS SAM\] template to a different staging environment)
+- Deploying application stack updates to existing environments (for example, deploying an AWS Serverless Application Model [AWS SAM] template to a different staging environment)
 - Performing mock integration for APIs and resolving integration dependencies
 - Testing applications by using development endpoints (for example, configuring stages in Amazon API Gateway)
 - Testing deployed code by using AWS services and tools
